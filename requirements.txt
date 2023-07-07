@@ -1,0 +1,5 @@
+al fine che le icone dei bottoni siano visibili, è richiesto che sia disabilitato il shadow build
+oppure che le tre immagini: delete, edit e plus siano copiate nella cartella di shadow build.
+Questo non provoca alcun problema oltre al fatto che non è chiara la funzionalità dei vari bottoni,
+per motivi di convenienza, il bottone in basso a sinistra del calendario è quello di aggiunta di un'attività,
+nella riga delle attività, i due bottoni a destra sono: il primo di eliminazione ed il secondo di editing dell'attività scelta.
